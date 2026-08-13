@@ -1,4 +1,4 @@
-NAME = ScalarConverter
+NAME = convert
 SRC_DIR	= src
 INC_DIR	= include
 OBJ_DIR	= obj
